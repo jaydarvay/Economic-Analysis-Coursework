@@ -9,7 +9,7 @@ How Did COVID-19 School Closures Amplify Human-Capital Inequality Across Socioec
 
 ## Project
 
-This University research project examines whether COVID-19 school closures led to greater learning losses among children from lower socioeconomic backgrounds in India. The analysis focuses on human-capital inequality, considering differences in learning outcomes, household socioeconomic status, parental education, and access to digital learning resources.
+This research project examines whether COVID-19 school closures led to greater learning losses among children from lower socioeconomic backgrounds in India. The analysis focuses on human-capital inequality, considering differences in learning outcomes, household socioeconomic status, parental education, and access to digital learning resources.
 
 The research draws on evidence of substantial disruption to children's education during the pandemic, including declines in literacy and mathematical abilities.
 
