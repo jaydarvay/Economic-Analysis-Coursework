@@ -2,10 +2,11 @@
 
 How Did COVID-19 School Closures Amplify Human-Capital Inequality Across Socioeconomic Groups in India? Evidence from Learning Outcomes, Remote Learning Access, and Access to Key Learning Inputs
 
-## Module
-
 **BEE3070 - Economic Analysis and Pandemics**
+
 **Grade:** 71% (First-Class)
+
+[View Full Coursework PDF](Economic_Analysis_Coursework.pdf)
 
 ## Project
 
