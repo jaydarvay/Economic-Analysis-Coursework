@@ -1,4 +1,4 @@
-# COVID-19 Learning Losses in India
+# 📚 COVID-19 Learning Losses in India
 
 How Did COVID-19 School Closures Amplify Human-Capital Inequality Across Socioeconomic Groups in India? Evidence from Learning Outcomes, Remote Learning Access, and Access to Key Learning Inputs
 
