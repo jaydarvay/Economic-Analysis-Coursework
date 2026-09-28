@@ -6,7 +6,7 @@ How Did COVID-19 School Closures Amplify Human-Capital Inequality Across Socioec
 
 **Grade:** 71% (First-Class)
 
-[View Full Coursework PDF](Economic_Analysis_Coursework.pdf)
+[View Full Coursework PDF](Economic_Analysis_Coursework.pdf) (13 pages)
 
 ## Project
 
